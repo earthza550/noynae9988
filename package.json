@@ -1,0 +1,16 @@
+{
+  "name": "noynoy5565",
+  "theme": "syntax",
+  "version": "1.0.43",
+  "description": "สมัคร ซื้อ หวยฮานอยVIP พร้อม สถิติหวยฮานอยVIP ย้อนหลัง 10 งวด",
+  "keywords": [
+    "หวยฮานอยVIP",
+    "ซื้อหวยฮานอยVIP",
+    "สถิติหวยฮานอยVIP"
+  ],
+  "repository": "https://github.com/earthza550/noynae9988",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
